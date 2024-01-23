@@ -1,0 +1,14 @@
+fed7ff5 Merge pull request #1 from DalJohnston/dallin
+c3a62ae Spencer lol
+f9f3606 merging main and features
+969ec3f new text
+0bd5cf3 no new features
+bbac1fb Merge branch 'features'
+86fbea7 added a second line
+309c042 added new features
+d1f325f add empty file
+484610d added a gitignore
+bde799e added Readme.md :
+e54ad89 wrote to file_2.txt
+3427f7d wrote to file_1.txt
+aa57588 create new files

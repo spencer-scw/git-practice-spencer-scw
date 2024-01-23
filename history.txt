@@ -1,0 +1,345 @@
+ 1101  wget https://github.com/curl/curl/releases/download/curl-7_55_0/curl-7.55.0.tar.gz
+ 1149  git clone git@github.com:BYU-Stats/new-statmonitor-frontend.git
+ 1152  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+ 1154  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+ 1177  git status
+ 1186  git status
+ 1187  git add .
+ 1188  git commit -m "simplified a bit"
+ 1189  git push
+ 1192  git status
+ 1193  git add .
+ 1194  git commit -m"working on networrk code"
+ 1195  git push
+ 1196  git status
+ 1197  git add .
+ 1198  git commit -m"color changing in the lobby works good"
+ 1199  git push
+ 1201  git status
+ 1202  git add .
+ 1203  git commit -m"color changing"
+ 1204  git push
+ 1205  git status
+ 1206  git add .
+ 1207  git commit -m"finished the menu"
+ 1208  git push
+ 1210  git status
+ 1211  git add .
+ 1212  git commit -m"finished the menu"
+ 1213  git push
+ 1214  git status
+ 1215  git add .
+ 1216  git commit -m "3d???"
+ 1217  git push
+ 1218  git pull
+ 1219  git config pull.rebase false
+ 1220  git pull
+ 1221  git add .
+ 1222  git commit -m "merging crap lol"
+ 1223  git push
+ 1232  git status
+ 1233  git add .
+ 1234  git status
+ 1235  git commit -m "built and tested the union and join methods"
+ 1236  git push
+ 1241  git clone https://github.com/BYU-CS-236-Classroom/project-4-spencer-scw
+ 1242  git clone git@github.com:BYU-CS-236-Classroom/project-4-spencer-scw.git
+ 1246  git add .
+ 1247  git commit -m "SOOOO close, but I have a little bug I can't figure out"
+ 1248  git push
+ 1256  git status
+ 1257  git add .
+ 1258  git commit -m "rrrrrrr"
+ 1259  git push
+ 1261  git status
+ 1262  git add .
+ 1263  git commit -m"it just isn't efficient enough to solve :`("
+ 1264  git commit -m"it just isn't efficient enough to solve :'("
+ 1265  git push
+ 1266  git fetch
+ 1267  git pull
+ 1268  git status
+ 1270  git add .
+ 1271  git commit -m"huzzzah finally I deleted some strings and it works now asjlksdno;sbdfo"
+ 1272  git push
+ 1274  git status
+ 1275  git push revert-1-main
+ 1276  git push origin revert-1-main
+ 1278  git status
+ 1279  git add .
+ 1280  git commit -m"test"
+ 1281  git push
+ 1282  git fetch
+ 1283  git pull
+ 1284  git config pull.rebase false
+ 1285  git pull
+ 1286  git push
+ 1287  git status
+ 1288  git add .
+ 1289  git commit -m"please"
+ 1290  git push
+ 1292  git add .
+ 1293  git commit -m"brought over the files from project 3"
+ 1294  git push
+ 1365  git pull
+ 1366  git stash
+ 1367  git pull
+ 1377  git init
+ 1378  git config --global init.defaultBranch main
+ 1379  git branch -m master
+ 1380  git remote add origin git@github.com:spencer-scw/AOC_23.git
+ 1381  git poush -u origin main
+ 1382  git push -u origin main
+ 1383  git commit -m "first commit"
+ 1384  git add .
+ 1385  git commit -m "first commit"
+ 1387  git add .
+ 1388  git commit -m "first commit"
+ 1389  git push -u origin main
+ 1390  git push
+ 1391  git push --set-upstream origin main
+ 1392  git pull
+ 1393  git branch --set-upstream-to=origin main
+ 1394  git branch -M main
+ 1396  git push -u origin main
+ 1397  git status
+ 1408  git init
+ 1409  git add .
+ 1410  git remote add origin git@github.com:spencer-scw/Wir-Sehn-Uns-Wieder.git
+ 1411  git branch -M main
+ 1412  git commit -m "first commit"
+ 1413  git push -U origin mainb
+ 1414  git push -U origin main
+ 1415  git push -u origin main
+ 1417  git add .
+ 1418  git commit -m "added musescore"
+ 1419  git push
+ 1420  git status
+ 1421  git add .
+ 1422  git commit -m "finished drumbs"
+ 1423  git pull
+ 1424  git config pull.rebase false
+ 1425  git pull
+ 1426  git push
+ 1446  git status
+ 1447  git add .
+ 1448  git commit -m "finished with day 3"
+ 1449  git push
+ 1460  git status
+ 1461  git add wir_sehn_uns_wieder_kareoke.aup3 
+ 1462  git commit -m "Finished Spencer's parts"
+ 1463  git push
+ 1464  git stash
+ 1465  git status
+ 1466  git add wir_sehn_uns_wieder_kareoke.zip 
+ 1467  git commit -m "finished Spencer's parts"
+ 1468  git push
+ 1469  git rm wir_sehn_uns_wieder_kareoke.aup3 
+ 1470  git push
+ 1471  git status
+ 1480  git add .
+ 1481  git commit -m "finished day 5 somehow"
+ 1482  git push
+ 1485  git clone git@github.com:BYU-CS-236-Classroom/project-5-spencer-scw.git
+ 1493  git status
+ 1494  git add .
+ 1495  git commit -m "finished day 6"
+ 1496  git push
+ 1503  git commit -m "brought over code from project 4"
+ 1504  git add .
+ 1505  git commit -m "brought over code from project 4"
+ 1506  git push
+ 1507  git add .
+ 1508  git commit -m"made some good progress"
+ 1509  git push
+ 1523  git add .
+ 1524  git commit -m "really close on the algorythm for 10.2"
+ 1525  git push
+ 1533  git add .
+ 1534  git commit -m"done
+ 1536  git push
+ 1556  git add .
+ 1557  git commit -m "expanding the universe"
+ 1558  git push
+ 1559  git pull
+ 1560  git config pull.rebase false
+ 1561  git pull
+ 1562  git push
+ 1563  git status
+ 1610  git status
+ 1611  git add .
+ 1612  git commit -m "finished day 11"
+ 1613  git push
+ 1616  git status
+ 1617  git add .
+ 1618  git commit -m"finished day 12 part 1"
+ 1619  git push
+ 1634  git clone git@github.com:spencer-scw/chess.git
+ 1639  git add .
+ 1640  git commit -m "first commit"
+ 1641  git push
+ 1645  git add .
+ 1646  git commit -m "init phase 0"
+ 1647  git push
+ 1648  git status
+ 1651  git status
+ 1652  git add .
+ 1665  git status
+ 1666  git add .
+ 1667  git commit -m "built some getters and setters"
+ 1668  git push
+ 1672  which git
+ 1673  git --version
+ 1674  sudo apt update git
+ 1677  git --version
+ 1678  sudo add-apt-repository ppa:git-core/ppa -y
+ 1681  sudo apt-get install git -y
+ 1682  git --version
+ 1689  git config
+ 1690  git config --list
+ 1691  git config --global core.editor "code --wait"
+ 1692  git config -l
+ 1693  mkdir git-practice-scw
+ 1694  cd git-practice-scw/
+ 1695  git init
+ 1704  cd git-practice-scw/
+ 1705  git status
+ 1707  git status
+ 1708  git add file1.txt 
+ 1709  git commit -m "added a blank file to the repo"
+ 1710  git log
+ 1712  git add deleteme
+ 1713  git status
+ 1714  git rm deleteme
+ 1716  git reset deleteme
+ 1717  git status
+ 1718  git rm deleteme
+ 1719  git add deleteme
+ 1720  git commit "added deleteme"
+ 1721  git status
+ 1722  git commit -m "added deleteme"
+ 1723  git rm deleteme
+ 1725  git status
+ 1726  git restore -S
+ 1727  git restore --staged deleteme
+ 1729  git status
+ 1731  git add .
+ 1733  git commit -m "did some weird stuff with git rm"
+ 1811  git status
+ 1812  git add .
+ 1813  git commit -m "downloaded the fixes to the test code"
+ 1814  git push
+ 1822  git status
+ 1823  git add .
+ 1824  git commit -m "getters in ChessMove"
+ 1825  git push
+ 1826  git status
+ 1827  git add .
+ 1828  git commit -m "chessboard tests all passing; added equals overrides"
+ 1829  git push
+ 1830  git add .
+ 1831  git commit -m "finished all the tests except for the actual piece movement"
+ 1832  git push
+ 1833  git status
+ 1844  mkdir git-practice-spencer-scw
+ 1845  cd git-practice-spencer-scw/
+ 1846  git init
+ 1848  git status
+ 1851  git status
+ 1852  git add .
+ 1853  git status
+ 1854  git commit -m "create new files"
+ 1855  git status
+ 1856  git log
+ 1859  git status
+ 1860  git add file_1.txt 
+ 1861  git commit -m "wrote to file_1.txt"
+ 1862  git add file_2.txt 
+ 1863  git commit -m "wrote to file_2.txt"
+ 1864  git log
+ 1867  git add Readme.md 
+ 1868  git commit -m "added Readme.md
+ 1871  touch .gitignore
+ 1872  vi .gitignore 
+ 1873  git add .
+ 1874  git commit -m "added a gitignore"
+ 1876  git status
+ 1878  git status
+ 1879  git branch features
+ 1880  git branch ls
+ 1881  git branch --list
+ 1882  git branch --help
+ 1883  git branch -d ls
+ 1884  git branch --list
+ 1885  git branch --help
+ 1886  git checkout features
+ 1887  git log
+ 1889  git add new_features.txt 
+ 1890  git commit -m "add empty file"
+ 1892  git add .
+ 1893  git commit -m "added new features"
+ 1894  git log
+ 1895  git checkout main
+ 1898  git add .
+ 1899  git commit -m "added a second line"
+ 1900  git merge --help
+ 1901  git merge features
+ 1903  git log
+ 1905  git add new_features.txt 
+ 1906  git commit "no new features"
+ 1907  git commit -m "no new features"
+ 1908  git checkout features
+ 1910  git add new_features.txt 
+ 1911  git commit "new text"
+ 1912  git commit -m "new text"
+ 1913  git checkout main
+ 1914  git merge features
+ 1916  git add .
+ 1917  git commit -m "merging main and features"
+ 1918  git log
+ 1921  git branch -d features 
+ 1922  git remote add origin git@github.com:spencer-scw/git-practice-spencer-scw.git
+ 1923  git push -u origin main
+ 1938  git clone git@github.com:Stat386-Winter2024/lab-02-spencer-scw.git
+ 1987  git status
+ 1988  git add .
+ 1989  git commit -m "finished pawn, king, and knight movements"
+ 1990  git push
+ 1991  git add .
+ 1992  git commit -m "finished all tests!"
+ 1993  git push'
+ 1995  git push
+ 2011  cd git-practice-scw/
+ 2013  git status
+ 2016  git clone git@github.com:spencer-scw/git-practice-tazaugg.git
+ 2018  cd git-practice-tazaugg/
+ 2019  git branch new-feature-spencer-scw
+ 2020  git branch
+ 2022  git add .
+ 2023  git commit -m "added an important file to the repo"
+ 2024  git push
+ 2027  git branch
+ 2028  git switch new-feature-spencer-scw 
+ 2030  git push origin new-feature-spencer-scw 
+ 2031  git add .
+ 2032  git commit -m "switched branches"
+ 2033  git push origin new-feature-spencer-scw 
+ 2036  cd git-practice-scw/
+ 2038  git pull
+ 2039  git fetch
+ 2040  git pull
+ 2041  git branch
+ 2042  git branch --set-upstream-to=origin main
+ 2043  git branch --set-upstream-to=main main
+ 2044  git branch --set-upstream-to=remote main
+ 2045  git push -u
+ 2046  git push
+ 2050  cd git-practice-
+ 2051  cd git-practice-scw/
+ 2057  mv git-practice-spencer-scw/ Stat386
+ 2060  rm git-practice-scw
+ 2061  rm -r git-practice-scw/
+ 2062  cd git-practice-spencer-scw/
+ 2064  git pull
+ 2066  git log --oneline > gitlog.txt
+ 2067  history | grep git > history.txt
